@@ -1,0 +1,397 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eddystone Protocol Specification & Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2019-12-10T09:06:48Z",
+            "owner": "google",
+            "repo": "eddystone",
+            "stars": 3089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eddystone Validator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2019-12-10T09:06:48Z",
+            "owner": "google",
+            "repo": "eddystone",
+            "stars": 3089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eddystone Branding Guidelines",
+          "description": "& Logos",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2019-12-10T09:06:48Z",
+            "owner": "google",
+            "repo": "eddystone",
+            "stars": 3089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Eddystone GATT Configuration Service & Google Nearby API and Proximity API](*",
+          "description": ") (by Nordic Semiconductor)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-07-29T08:47:40Z",
+            "owner": "nordicsemi",
+            "repo": "Android-nRF-Beacon-for-Eddystone",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Advertising frame types",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Eddystone-UID",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2019-12-10T09:06:48Z",
+                "owner": "google",
+                "repo": "eddystone",
+                "stars": 3089
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eddystone-TLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2019-12-10T09:06:48Z",
+                "owner": "google",
+                "repo": "eddystone",
+                "stars": 3089
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eddystone-URL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C",
+                "last_commit": "2019-12-10T09:06:48Z",
+                "owner": "google",
+                "repo": "eddystone",
+                "stars": 3089
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Eddystone by Google"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Physical Web Implementation Status",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-12-05T21:09:11Z",
+            "owner": "google",
+            "repo": "physical-web",
+            "stars": 5966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Physical Web Branding Guidelines",
+          "description": "& Logos",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-12-05T21:09:11Z",
+            "owner": "google",
+            "repo": "physical-web",
+            "stars": 5966
+          }
+        }
+      ],
+      "title": "Physical Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iOS Eddystone Scanner Sample Application",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2019-12-10T09:06:48Z",
+            "owner": "google",
+            "repo": "eddystone",
+            "stars": 3089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS & OSX Bluetooth library for RxSwift",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-03-05T05:34:14Z",
+            "owner": "Polidea",
+            "repo": "RxBluetoothKit",
+            "stars": 1435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiBeacons",
+          "description": "A nice iBeacon demo app in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-10-19T19:01:06Z",
+            "owner": "nicktoumpelis",
+            "repo": "HiBeacons",
+            "stars": 1149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMCiBeaconManager",
+          "description": "An iBeacon Manager class that is responsible for detecting beacons nearby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-08-11T15:30:49Z",
+            "owner": "gulfcoastdev",
+            "repo": "JMCBeaconManager",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeaconKit",
+          "description": "Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-12-31T09:28:29Z",
+            "owner": "igor-makarov",
+            "repo": "BeaconKit",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Swift"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Replicates detecting and broadcasting iBeacons in the background",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2016-08-22T09:07:20Z",
+            "owner": "Instrument",
+            "repo": "Vicinity",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generic iBeacon Management and Utilities by KinveyLabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2015-05-08T21:15:14Z",
+            "owner": "Kinvey",
+            "repo": "KCSIBeacon",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RABeaconManager",
+          "description": "RABeaconManager is an easy to use library that allows you to detect Bluetooth Beacons and iBeacons in the foreground and background.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-01-23T18:30:34Z",
+            "owner": "reelyactive",
+            "repo": "ble-ios-sdk",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Objective-C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android beacon library based on AltBeacon.",
+          "description": "Use a custom beacon parser for iBeacon device compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-16T23:33:24Z",
+            "owner": "AltBeacon",
+            "repo": "android-beacon-library",
+            "stars": 2910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluetooth LE Library for Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-12-15T15:35:26Z",
+            "owner": "alt236",
+            "repo": "Bluetooth-LE-Library---Android",
+            "stars": 882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLE SDK for Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-28T17:20:08Z",
+            "owner": "RedBearLab",
+            "repo": "Android",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeaconKeeper",
+          "description": "The simple library for locating iBeacons in background",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-05-11T10:03:49Z",
+            "owner": "m039",
+            "repo": "beacon-keeper",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iBeacon Scanner for Android",
+          "description": ", Docs & Blog post",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-11-06T12:44:06Z",
+            "owner": "inthepocket",
+            "repo": "ibeacon-scanner-android",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reelyactive-ble-android-sdk",
+          "description": "This SDK allows you to scan beacons and advertise as a beacon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-03-31T14:22:24Z",
+            "owner": "reelyactive",
+            "repo": "ble-android-sdk",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Beacon Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iBeacon Scanner",
+          "description": "& code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-11-06T06:45:19Z",
+            "owner": "eliaslecomte",
+            "repo": "ibeacon-scanner-app",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beacon Scanner & Logger",
+          "description": "Android app that scans for BLE Beacons/iBeacons and logs the results to a file",
+          "children": []
+        }
+      ],
+      "title": "Beacon Scanner Apps"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:51:22.792Z",
+    "original_repository": "rabschi/awesome-beacon",
+    "original_repository_sha": "8b75c9efd8e8dbc8a6916bcac9a516334fb22f53",
+    "enhanced_repository": "enhansome/enhansome-beacon",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bluetooth Beacon with stars"
+  }
+}
