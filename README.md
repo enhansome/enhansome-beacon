@@ -89,7 +89,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample) ⚠️ Archived
 * [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,435 | 🐛 56 | 🌐 Swift | 📅 2024-03-05
-* [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) ⭐ 1,149 | 🐛 0 | 🌐 Swift | 📅 2020-10-19 A nice iBeacon demo app in Swift.
+* [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) ⭐ 1,150 | 🐛 0 | 🌐 Swift | 📅 2020-10-19 A nice iBeacon demo app in Swift.
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) ⭐ 147 | 🐛 1 | 🌐 Swift | 📅 2016-08-11 - An iBeacon Manager class that is responsible for detecting beacons nearby.
 * [BeaconKit](https://github.com/igor-makarov/BeaconKit) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2018-12-31 - Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon.
 * [Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8](http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8)
@@ -151,7 +151,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Cordova, Phonegap, Xamarin, Titanium
 
-* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) ⭐ 727 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-12
+* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) ⭐ 727 | 🐛 139 | 🌐 JavaScript | 📅 2026-08-15
 * [iBeacon advertising and scanning in a Titanium module](https://github.com/jbeuckm/TiBeacons) ⭐ 135 | 🐛 24 | 🌐 Objective-C | 📅 2016-09-19
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
 
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
