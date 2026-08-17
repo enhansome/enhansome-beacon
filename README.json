@@ -187,7 +187,7 @@
             "last_commit": "2020-10-19T19:01:06Z",
             "owner": "nicktoumpelis",
             "repo": "HiBeacons",
-            "stars": 1150
+            "stars": 1149
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2017-02-28T17:20:08Z",
             "owner": "RedBearLab",
             "repo": "Android",
-            "stars": 192
+            "stars": 193
           }
         },
         {
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:57:19.369Z",
+    "last_updated": "2026-08-17T07:14:42.967Z",
     "original_repository": "rabschi/awesome-beacon",
     "original_repository_sha": "8b75c9efd8e8dbc8a6916bcac9a516334fb22f53",
     "enhanced_repository": "enhansome/enhansome-beacon",
