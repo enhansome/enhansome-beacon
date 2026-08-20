@@ -398,7 +398,7 @@
                 "last_commit": "2026-01-16T23:33:24Z",
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
-                "stars": 2910
+                "stars": 2909
               }
             },
             {
@@ -413,7 +413,7 @@
                 "last_commit": "2024-12-15T15:35:26Z",
                 "owner": "alt236",
                 "repo": "Bluetooth-LE-Library---Android",
-                "stars": 882
+                "stars": 883
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2017-02-28T17:20:08Z",
                 "owner": "RedBearLab",
                 "repo": "Android",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -676,7 +676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:20:10.653Z",
+    "last_updated": "2026-08-20T07:04:05.155Z",
     "original_repository": "rabschi/awesome-beacon",
     "original_repository_id": 22374779,
     "original_repository_sha": "8b75c9efd8e8dbc8a6916bcac9a516334fb22f53",

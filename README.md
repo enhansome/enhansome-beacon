@@ -124,9 +124,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Beacon Development
 
-* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,910 | 🐛 155 | 🌐 Java | 📅 2026-01-16 Use a custom beacon parser for iBeacon device compatibility.
-* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 882 | 🐛 14 | 🌐 Java | 📅 2024-12-15
-* [BLE SDK for Android](https://github.com/RedBearLab/Android) ⭐ 193 | 🐛 10 | 🌐 Java | 📅 2017-02-28
+* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,909 | 🐛 155 | 🌐 Java | 📅 2026-01-16 Use a custom beacon parser for iBeacon device compatibility.
+* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 883 | 🐛 14 | 🌐 Java | 📅 2024-12-15
+* [BLE SDK for Android](https://github.com/RedBearLab/Android) ⭐ 194 | 🐛 10 | 🌐 Java | 📅 2017-02-28
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) ⚠️ Archived The simple library for locating iBeacons in background
 * [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) ⚠️ Archived, [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) ⚠️ Archived & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
 * [reelyactive-ble-android-sdk](https://github.com/reelyactive/ble-android-sdk) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2016-03-31 This SDK allows you to scan beacons and advertise as a beacon.
@@ -192,7 +192,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Web Bluetooth API
 
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19
 
 # Beacon Developer Kits & BLE Chips
 
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
