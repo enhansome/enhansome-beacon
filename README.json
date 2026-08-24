@@ -186,6 +186,28 @@
             "repo": "Glasstimote",
             "stars": 4
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ScanBeacon",
+              "description": "A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37746776,
+                "language": "Ruby",
+                "last_commit": "2016-12-06T18:56:35Z",
+                "owner": "RadiusNetworks",
+                "repo": "scanbeacon-gem",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beacon Discovery & Configuration Tools"
         }
       ],
       "title": "Hacks & Cool Apps"
@@ -673,10 +695,87 @@
         }
       ],
       "title": "Node.js"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Universal Bluetooth Beacon Library",
+          "description": "open source library and links to apps to talk to Eddystone and iBeacon beacons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40302652,
+            "language": "C#",
+            "last_commit": "2025-09-05T13:28:47Z",
+            "owner": "andijakl",
+            "repo": "universal-beacon",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "Windows"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web Bluetooth Demos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41744626,
+                "language": "HTML",
+                "last_commit": "2024-04-19T08:20:23Z",
+                "owner": "WebBluetoothCG",
+                "repo": "demos",
+                "stars": 677
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Bluetooth API"
+        }
+      ],
+      "title": "Bluetooth Low Energy"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BeaconCtrl",
+              "description": "Setup and manage large beacon deployments with BeaconCtrl Open Source platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38246044,
+                "language": "Ruby",
+                "last_commit": "2016-04-15T14:10:11Z",
+                "owner": "upnext",
+                "repo": "BeaconControl",
+                "stars": 92
+              }
+            }
+          ],
+          "description": "Bluetooth, Apple, Google, iBeacon, Eddystone and other trademarks are the property of their respective trademark owners.",
+          "node_type": "group",
+          "title": "Vendor-driven Beacon Standardization"
+        }
+      ],
+      "title": "Beacon Developer Kits & BLE Chips"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:18:32.717Z",
+    "last_updated": "2026-08-24T14:16:19.128Z",
     "original_repository": "rabschi/awesome-beacon",
     "original_repository_id": 22374779,
     "original_repository_sha": "8b75c9efd8e8dbc8a6916bcac9a516334fb22f53",

@@ -176,7 +176,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Windows
 
-* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) ⭐ 214 | 🐛 14 | 🌐 C# | 📅 2025-09-05 - open source library and links to apps to talk to Eddystone and iBeacon beacons
+* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) ⭐ 213 | 🐛 14 | 🌐 C# | 📅 2025-09-05 - open source library and links to apps to talk to Eddystone and iBeacon beacons
 
 # Bluetooth Low Energy
 
@@ -191,8 +191,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Web Bluetooth API
 
-* [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19
+* [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 
 # Beacon Developer Kits & BLE Chips
 
