@@ -420,7 +420,7 @@
                 "last_commit": "2026-01-16T23:33:24Z",
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
-                "stars": 2909
+                "stars": 2910
               }
             },
             {
@@ -775,9 +775,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:07:12.645Z",
-    "original_repository": "rabschi/awesome-beacon",
-    "original_repository_id": 22374779,
+    "last_updated": "2026-08-27T11:32:50.311Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22374779,
+      "language": null,
+      "last_commit": "2019-05-03T11:40:22Z",
+      "owner": "rabschi",
+      "repo": "awesome-beacon",
+      "stars": 958
+    },
     "original_repository_sha": "8b75c9efd8e8dbc8a6916bcac9a516334fb22f53",
     "enhanced_repository": "enhansome/enhansome-beacon",
     "enhanced_repository_description": null,
