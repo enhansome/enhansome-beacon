@@ -16,7 +16,8 @@
             "owner": "google",
             "repo": "eddystone",
             "stars": 3089
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "google",
             "repo": "eddystone",
             "stars": 3089
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "google",
             "repo": "eddystone",
             "stars": 3089
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nordicsemi",
             "repo": "Android-nRF-Beacon-for-Eddystone",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "group",
@@ -81,7 +85,8 @@
                 "owner": "google",
                 "repo": "eddystone",
                 "stars": 3089
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -96,7 +101,8 @@
                 "owner": "google",
                 "repo": "eddystone",
                 "stars": 3089
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -111,7 +117,8 @@
                 "owner": "google",
                 "repo": "eddystone",
                 "stars": 3089
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ]
         }
@@ -134,7 +141,8 @@
             "owner": "google",
             "repo": "physical-web",
             "stars": 5965
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "google",
             "repo": "physical-web",
             "stars": 5965
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         }
       ],
       "title": "Physical Web"
@@ -170,7 +179,8 @@
             "owner": "panicinc",
             "repo": "PunchClock",
             "stars": 1635
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "tmwagency",
             "repo": "Glasstimote",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "children": [
@@ -202,7 +213,8 @@
                 "owner": "RadiusNetworks",
                 "repo": "scanbeacon-gem",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ],
           "description": null,
@@ -230,7 +242,8 @@
                 "owner": "google",
                 "repo": "eddystone",
                 "stars": 3089
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -245,7 +258,8 @@
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
                 "stars": 1435
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -260,7 +274,8 @@
                 "owner": "nicktoumpelis",
                 "repo": "HiBeacons",
                 "stars": 1150
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -275,7 +290,8 @@
                 "owner": "gulfcoastdev",
                 "repo": "JMCBeaconManager",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -290,7 +306,8 @@
                 "owner": "igor-makarov",
                 "repo": "BeaconKit",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ],
           "description": null,
@@ -312,7 +329,8 @@
                 "owner": "Instrument",
                 "repo": "Vicinity",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -327,7 +345,8 @@
                 "owner": "Kinvey",
                 "repo": "KCSIBeacon",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -342,7 +361,8 @@
                 "owner": "reelyactive",
                 "repo": "ble-ios-sdk",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ],
           "description": null,
@@ -368,7 +388,8 @@
             "owner": "google",
             "repo": "eddystone",
             "stars": 3089
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -383,7 +404,8 @@
             "owner": "dburr",
             "repo": "linux-ibeacon",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -398,7 +420,8 @@
             "owner": "adriancretu",
             "repo": "beacons-android",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         }
       ],
       "title": "Virtual Beacons"
@@ -421,7 +444,8 @@
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
                 "stars": 2910
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -436,7 +460,8 @@
                 "owner": "alt236",
                 "repo": "Bluetooth-LE-Library---Android",
                 "stars": 883
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -451,7 +476,8 @@
                 "owner": "RedBearLab",
                 "repo": "Android",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -466,7 +492,8 @@
                 "owner": "m039",
                 "repo": "beacon-keeper",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -481,7 +508,8 @@
                 "owner": "inthepocket",
                 "repo": "ibeacon-scanner-android",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             },
             {
               "node_type": "item",
@@ -496,7 +524,8 @@
                 "owner": "reelyactive",
                 "repo": "ble-android-sdk",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ],
           "description": null,
@@ -518,7 +547,8 @@
                 "owner": "eliaslecomte",
                 "repo": "ibeacon-scanner-app",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ],
           "description": null,
@@ -544,7 +574,8 @@
             "owner": "petermetz",
             "repo": "cordova-plugin-ibeacon",
             "stars": 727
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -559,7 +590,8 @@
             "owner": "jbeuckm",
             "repo": "TiBeacons",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         }
       ],
       "title": "Cordova, Phonegap, Xamarin, Titanium"
@@ -580,7 +612,8 @@
             "owner": "mttrb",
             "repo": "BeaconOSX",
             "stars": 853
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -595,7 +628,8 @@
             "owner": "mlwelles",
             "repo": "BeaconScanner",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -610,7 +644,8 @@
             "owner": "liamnichols",
             "repo": "iBeaconScanner",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -625,7 +660,8 @@
             "owner": "dermike",
             "repo": "slide-beacon-app",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -640,7 +676,8 @@
             "owner": "dermike",
             "repo": "physical-web-scan-app",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -655,7 +692,8 @@
             "owner": "igor-makarov",
             "repo": "BeaconKit",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         }
       ],
       "title": "OS X"
@@ -676,7 +714,8 @@
             "owner": "noble",
             "repo": "noble",
             "stars": 3456
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         },
         {
           "node_type": "item",
@@ -691,7 +730,8 @@
             "owner": "noble",
             "repo": "bleno",
             "stars": 2139
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         }
       ],
       "title": "Node.js"
@@ -712,7 +752,8 @@
             "owner": "andijakl",
             "repo": "universal-beacon",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T18:38:41.921Z"
         }
       ],
       "title": "Windows"
@@ -735,7 +776,8 @@
                 "owner": "WebBluetoothCG",
                 "repo": "demos",
                 "stars": 677
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ],
           "description": null,
@@ -763,7 +805,8 @@
                 "owner": "upnext",
                 "repo": "BeaconControl",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T18:38:41.921Z"
             }
           ],
           "description": "Bluetooth, Apple, Google, iBeacon, Eddystone and other trademarks are the property of their respective trademark owners.",
@@ -775,7 +818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:36:30.095Z",
+    "last_updated": "2026-08-28T18:38:41.921Z",
     "original_repository_info": {
       "archived": false,
       "id": 22374779,
