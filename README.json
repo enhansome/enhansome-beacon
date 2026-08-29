@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Specification for Eddystone, an open beacon format from Google",
+            "homepage": null,
             "id": 38106431,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-10T09:06:48Z",
+            "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089
+            "stars": 3089,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Specification for Eddystone, an open beacon format from Google",
+            "homepage": null,
             "id": 38106431,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-10T09:06:48Z",
+            "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089
+            "stars": 3089,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Specification for Eddystone, an open beacon format from Google",
+            "homepage": null,
             "id": 38106431,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-10T09:06:48Z",
+            "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089
+            "stars": 3089,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An application with Eddystone GATT Configuration Service & Google Nearby API and Proximity API.",
+            "homepage": null,
             "id": 56249437,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-07-29T08:47:40Z",
+            "open_issues": 3,
             "owner": "nordicsemi",
             "repo": "Android-nRF-Beacon-for-Eddystone",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -79,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Specification for Eddystone, an open beacon format from Google",
+                "homepage": null,
                 "id": 38106431,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-10T09:06:48Z",
+                "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089
+                "stars": 3089,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -95,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Specification for Eddystone, an open beacon format from Google",
+                "homepage": null,
                 "id": 38106431,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-10T09:06:48Z",
+                "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089
+                "stars": 3089,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -111,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Specification for Eddystone, an open beacon format from Google",
+                "homepage": null,
                 "id": 38106431,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-10T09:06:48Z",
+                "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089
+                "stars": 3089,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -135,12 +170,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Physical Web: walk up and use anything",
+            "homepage": "http://physical-web.org",
             "id": 24650339,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-05T21:09:11Z",
+            "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5965
+            "stars": 5965,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -151,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Physical Web: walk up and use anything",
+            "homepage": "http://physical-web.org",
             "id": 24650339,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-05T21:09:11Z",
+            "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5965
+            "stars": 5965,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         }
@@ -173,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.",
+            "homepage": null,
             "id": 21592194,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-16T17:17:58Z",
+            "open_issues": 5,
             "owner": "panicinc",
             "repo": "PunchClock",
-            "stars": 1635
+            "stars": 1635,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -189,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 23153283,
             "language": "Java",
+            "license": null,
             "last_commit": "2014-09-23T09:37:06Z",
+            "open_issues": 0,
             "owner": "tmwagency",
             "repo": "Glasstimote",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -207,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Ruby gem for scanning beacons",
+                "homepage": null,
                 "id": 37746776,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2016-12-06T18:56:35Z",
+                "open_issues": 1,
                 "owner": "RadiusNetworks",
                 "repo": "scanbeacon-gem",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -236,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Specification for Eddystone, an open beacon format from Google",
+                "homepage": null,
                 "id": 38106431,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-10T09:06:48Z",
+                "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089
+                "stars": 3089,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -252,12 +317,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS & OSX Bluetooth library for RxSwift",
+                "homepage": null,
                 "id": 55787235,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-05T05:34:14Z",
+                "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1435
+                "stars": 1435,
+                "topics": [
+                  "ble",
+                  "bluetooth",
+                  "bluetooth-library",
+                  "bluetooth-low-energy",
+                  "corebluetooth",
+                  "discover-services",
+                  "emits",
+                  "peripherals",
+                  "rssi",
+                  "rxswift",
+                  "scans",
+                  "swift",
+                  "swift-library"
+                ]
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -268,12 +352,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An iBeacons example app for iOS 10, with Apple Watch (watchOS 3.0) support, written in Swift 3.",
+                "homepage": null,
                 "id": 13369768,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-10-19T19:01:06Z",
+                "open_issues": 0,
                 "owner": "nicktoumpelis",
                 "repo": "HiBeacons",
-                "stars": 1150
+                "stars": 1150,
+                "topics": [
+                  "apple-watch",
+                  "beacon-region",
+                  "bluetooth",
+                  "ibeacon",
+                  "ibeacon-support",
+                  "ibeacons",
+                  "ios",
+                  "iphone",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -284,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iBeacon Manager",
+                "homepage": null,
                 "id": 33210540,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-08-11T15:30:49Z",
+                "open_issues": 1,
                 "owner": "gulfcoastdev",
                 "repo": "JMCBeaconManager",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -300,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS Beacon framework using BTLE",
+                "homepage": null,
                 "id": 97750778,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-12-31T09:28:29Z",
+                "open_issues": 0,
                 "owner": "igor-makarov",
                 "repo": "BeaconKit",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -323,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Replicates detecting and broadcasting iBeacons in the background ",
+                "homepage": null,
                 "id": 15263703,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-08-22T09:07:20Z",
+                "open_issues": 12,
                 "owner": "Instrument",
                 "repo": "Vicinity",
-                "stars": 380
+                "stars": 380,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -339,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generic iBeacon Management and Utilities",
+                "homepage": null,
                 "id": 17631076,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2015-05-08T21:15:14Z",
+                "open_issues": 4,
                 "owner": "Kinvey",
                 "repo": "KCSIBeacon",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -355,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 32398143,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2017-01-23T18:30:34Z",
+                "open_issues": 0,
                 "owner": "reelyactive",
                 "repo": "ble-ios-sdk",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -382,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Specification for Eddystone, an open beacon format from Google",
+            "homepage": null,
             "id": 38106431,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2019-12-10T09:06:48Z",
+            "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089
+            "stars": 3089,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -398,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python script that creates an iBeacon-compatible Bluetooth LE beacon using Linux and a Bluetooth LE adapter",
+            "homepage": null,
             "id": 27657852,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-09-29T02:59:30Z",
+            "open_issues": 4,
             "owner": "dburr",
             "repo": "linux-ibeacon",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -414,12 +548,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android BLE advertising library",
+            "homepage": null,
             "id": 58236838,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-10T14:19:15Z",
+            "open_issues": 7,
             "owner": "adriancretu",
             "repo": "beacons-android",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "advertising",
+              "android-library",
+              "beacon",
+              "ble",
+              "bluetooth-low-energy",
+              "broadcast-bluetooth-beacons",
+              "eddystone-beacons",
+              "eddystone-eid",
+              "eddystone-gatt",
+              "eddystone-uid",
+              "eddystone-url",
+              "eid-beacon",
+              "gatt-service"
+            ]
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         }
@@ -438,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows Android apps to interact with BLE beacons",
+                "homepage": null,
                 "id": 22342877,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-16T23:33:24Z",
+                "open_issues": 155,
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
-                "stars": 2910
+                "stars": 2910,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -454,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons.",
+                "homepage": null,
                 "id": 17951611,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-15T15:35:26Z",
+                "open_issues": 14,
                 "owner": "alt236",
                 "repo": "Bluetooth-LE-Library---Android",
-                "stars": 883
+                "stars": 883,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -470,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLE SDK for Android (v4.3 or above)",
+                "homepage": null,
                 "id": 13952730,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-02-28T17:20:08Z",
+                "open_issues": 10,
                 "owner": "RedBearLab",
                 "repo": "Android",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -486,12 +654,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple android library for working with iBeacons in background",
+                "homepage": null,
                 "id": 28274104,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-05-11T10:03:49Z",
+                "open_issues": 3,
                 "owner": "m039",
                 "repo": "beacon-keeper",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "android",
+                  "ble",
+                  "ibeacon"
+                ]
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -502,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android library to scan for iBeacons.",
+                "homepage": null,
                 "id": 71135101,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-11-06T12:44:06Z",
+                "open_issues": 10,
                 "owner": "inthepocket",
                 "repo": "ibeacon-scanner-android",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             },
@@ -518,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDK for Android devices to interact with reelyActive reelceivers via Bluetooth Smart (BLE).  We believe in an open Internet of Things.",
+                "homepage": "http://reelyactive.github.io/ble-android-sdk/",
                 "id": 31035641,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-03-31T14:22:24Z",
+                "open_issues": 0,
                 "owner": "reelyactive",
                 "repo": "ble-android-sdk",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -541,12 +728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android app to scan for iBeacons.",
+                "homepage": null,
                 "id": 72034033,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-11-06T06:45:19Z",
+                "open_issues": 0,
                 "owner": "eliaslecomte",
                 "repo": "ibeacon-scanner-app",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -568,12 +760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An iBeacon plugin for Phonegap / Cordova 3.x and upwards. Supports both iOS and Android (contributions are welcome)",
+            "homepage": null,
             "id": 17801247,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T02:51:54Z",
+            "open_issues": 139,
             "owner": "petermetz",
             "repo": "cordova-plugin-ibeacon",
-            "stars": 727
+            "stars": 727,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -584,12 +781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iBeacon advertising and scanning in a Titanium module",
+            "homepage": null,
             "id": 13876343,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2016-09-19T16:22:52Z",
+            "open_issues": 24,
             "owner": "jbeuckm",
             "repo": "TiBeacons",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         }
@@ -606,12 +808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use a Bluetooth 4 enabled Mac running Mavericks (not Yosemite) as an iBeacon",
+            "homepage": "http://www.blendedcocoa.com/blog/2013/11/02/mavericks-as-an-ibeacon/",
             "id": 14064689,
             "language": "Objective-C",
+            "license": null,
             "last_commit": "2018-09-24T03:40:01Z",
+            "open_issues": 2,
             "owner": "mttrb",
             "repo": "BeaconOSX",
-            "stars": 853
+            "stars": 853,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -622,12 +829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iBeacon Scanning Utility App for OSX",
+            "homepage": null,
             "id": 18766606,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2026-01-22T04:45:31Z",
+            "open_issues": 4,
             "owner": "mlwelles",
             "repo": "BeaconScanner",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -638,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mac Application to scan for nearby iBeacons regardless of their UUID",
+            "homepage": null,
             "id": 14495156,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2014-11-19T12:02:29Z",
+            "open_issues": 3,
             "owner": "liamnichols",
             "repo": "iBeaconScanner",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -654,12 +871,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share links from your Mac using this app to broadcast them as a Physical Web Eddystone URL bluetooth beacon or mDNS.",
+            "homepage": null,
             "id": 43060239,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-27T21:02:59Z",
+            "open_issues": 2,
             "owner": "dermike",
             "repo": "slide-beacon-app",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "beacons",
+              "bluetooth",
+              "bluetooth-beacons",
+              "eddystone",
+              "electron",
+              "google",
+              "physical-web"
+            ]
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -670,12 +900,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mac OSX desktop client app to scan for Physical Web (Eddystone) bluetooth beacons",
+            "homepage": null,
             "id": 43970062,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-26T17:42:37Z",
+            "open_issues": 1,
             "owner": "dermike",
             "repo": "physical-web-scan-app",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "beacons",
+              "bluetooth",
+              "bluetooth-beacons",
+              "eddystone",
+              "electron",
+              "physical-web",
+              "scanner"
+            ]
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -686,12 +929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS Beacon framework using BTLE",
+            "homepage": null,
             "id": 97750778,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-12-31T09:28:29Z",
+            "open_issues": 0,
             "owner": "igor-makarov",
             "repo": "BeaconKit",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         }
@@ -708,12 +956,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Node.js BLE (Bluetooth Low Energy) central module ",
+            "homepage": null,
             "id": 7785673,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-21T16:44:43Z",
+            "open_issues": 254,
             "owner": "noble",
             "repo": "noble",
-            "stars": 3456
+            "stars": 3456,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         },
@@ -724,12 +977,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals",
+            "homepage": null,
             "id": 13964535,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-07T22:43:33Z",
+            "open_issues": 102,
             "owner": "noble",
             "repo": "bleno",
-            "stars": 2139
+            "stars": 2139,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         }
@@ -746,12 +1004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for Bluetooth Beacons for the Universal Windows Platform (Windows 10), including the Eddystone specification.",
+            "homepage": null,
             "id": 40302652,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-05T13:28:47Z",
+            "open_issues": 14,
             "owner": "andijakl",
             "repo": "universal-beacon",
-            "stars": 213
+            "stars": 213,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
         }
@@ -770,12 +1033,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo applications showing off Web Bluetooth",
+                "homepage": "https://webbluetoothcg.github.io/demos/",
                 "id": 41744626,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-19T08:20:23Z",
+                "open_issues": 7,
                 "owner": "WebBluetoothCG",
                 "repo": "demos",
-                "stars": 677
+                "stars": 677,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -799,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Setup and manage large beacon deployments  with BeaconControl open source platform",
+                "homepage": "https://beaconcontrol.io",
                 "id": 38246044,
                 "language": "Ruby",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-04-15T14:10:11Z",
+                "open_issues": 16,
                 "owner": "upnext",
                 "repo": "BeaconControl",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
             }
@@ -818,15 +1091,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:38:41.921Z",
+    "last_updated": "2026-08-29T04:37:40.206Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Bluetooth beacon software and tools.",
+      "homepage": "https://www.squaremetrics.com",
       "id": 22374779,
       "language": null,
+      "license": null,
       "last_commit": "2019-05-03T11:40:22Z",
+      "open_issues": 1,
       "owner": "rabschi",
       "repo": "awesome-beacon",
-      "stars": 958
+      "stars": 958,
+      "topics": [
+        "bluetooth-beacon",
+        "bluetooth-beacons",
+        "bluetooth-low-energy",
+        "eddystone",
+        "eddystone-url",
+        "ibeacon"
+      ]
     },
     "original_repository_sha": "8b75c9efd8e8dbc8a6916bcac9a516334fb22f53",
     "enhanced_repository": "enhansome/enhansome-beacon",
