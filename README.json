@@ -441,7 +441,7 @@
                 "open_issues": 12,
                 "owner": "Instrument",
                 "repo": "Vicinity",
-                "stars": 380,
+                "stars": 379,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -462,7 +462,7 @@
                 "open_issues": 4,
                 "owner": "Kinvey",
                 "repo": "KCSIBeacon",
-                "stars": 182,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -817,7 +817,7 @@
             "open_issues": 2,
             "owner": "mttrb",
             "repo": "BeaconOSX",
-            "stars": 853,
+            "stars": 852,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T13:43:31.826Z",
+    "last_updated": "2026-09-01T11:35:55.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
