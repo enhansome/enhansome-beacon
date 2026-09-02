@@ -124,7 +124,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Beacon Development
 
-* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,910 | 🐛 155 | 🌐 Java | 📅 2026-01-16 Use a custom beacon parser for iBeacon device compatibility.
+* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,911 | 🐛 155 | 🌐 Java | 📅 2026-01-16 Use a custom beacon parser for iBeacon device compatibility.
 * [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 883 | 🐛 14 | 🌐 Java | 📅 2024-12-15
 * [BLE SDK for Android](https://github.com/RedBearLab/Android) ⭐ 194 | 🐛 10 | 🌐 Java | 📅 2017-02-28
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) ⚠️ Archived The simple library for locating iBeacons in background
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
