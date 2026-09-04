@@ -151,7 +151,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Cordova, Phonegap, Xamarin, Titanium
 
-* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) ⭐ 727 | 🐛 140 | 🌐 JavaScript | 📅 2026-09-02
+* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) ⭐ 727 | 🐛 139 | 🌐 JavaScript | 📅 2026-09-04
 * [iBeacon advertising and scanning in a Titanium module](https://github.com/jbeuckm/TiBeacons) ⭐ 135 | 🐛 24 | 🌐 Objective-C | 📅 2016-09-19
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
 
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

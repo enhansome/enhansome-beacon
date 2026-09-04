@@ -765,8 +765,8 @@
             "id": 17801247,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T22:12:30Z",
-            "open_issues": 140,
+            "last_commit": "2026-09-04T01:49:25Z",
+            "open_issues": 139,
             "owner": "petermetz",
             "repo": "cordova-plugin-ibeacon",
             "stars": 727,
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:09:47.048Z",
+    "last_updated": "2026-09-04T11:14:11.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
