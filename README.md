@@ -115,7 +115,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) ⚠️ Archived - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising) ⚠️ Archived
 * [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon) ⭐ 170 | 🐛 4 | 🌐 Python | 📅 2016-09-29
-* [Android BLE advertising library](https://github.com/uriio/beacons-android) ⭐ 115 | 🐛 7 | 🌐 Java | 📅 2020-08-10
+* [Android BLE advertising library](https://github.com/uriio/beacons-android) ⭐ 114 | 🐛 7 | 🌐 Java | 📅 2020-08-10
 * [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator)
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
 * [Quick Beacon](https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8)
@@ -176,7 +176,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Windows
 
-* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) ⭐ 213 | 🐛 14 | 🌐 C# | 📅 2025-09-05 - open source library and links to apps to talk to Eddystone and iBeacon beacons
+* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) ⭐ 214 | 🐛 14 | 🌐 C# | 📅 2025-09-05 - open source library and links to apps to talk to Eddystone and iBeacon beacons
 
 # Bluetooth Low Energy
 
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

@@ -557,7 +557,7 @@
             "open_issues": 7,
             "owner": "adriancretu",
             "repo": "beacons-android",
-            "stars": 115,
+            "stars": 114,
             "topics": [
               "advertising",
               "android-library",
@@ -1013,7 +1013,7 @@
             "open_issues": 14,
             "owner": "andijakl",
             "repo": "universal-beacon",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:31:42.429Z",
+    "last_updated": "2026-09-06T10:52:26.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
@@ -1103,7 +1103,7 @@
       "open_issues": 1,
       "owner": "rabschi",
       "repo": "awesome-beacon",
-      "stars": 958,
+      "stars": 959,
       "topics": [
         "bluetooth-beacon",
         "bluetooth-beacons",
