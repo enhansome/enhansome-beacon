@@ -817,7 +817,7 @@
             "open_issues": 2,
             "owner": "mttrb",
             "repo": "BeaconOSX",
-            "stars": 852,
+            "stars": 853,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:18:41.239Z",
+    "last_updated": "2026-09-10T11:14:54.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
