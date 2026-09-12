@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089,
+            "stars": 3088,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -40,7 +40,7 @@
             "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089,
+            "stars": 3088,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -61,7 +61,7 @@
             "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089,
+            "stars": 3088,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -108,7 +108,7 @@
                 "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089,
+                "stars": 3088,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -129,7 +129,7 @@
                 "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089,
+                "stars": 3088,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -150,7 +150,7 @@
                 "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089,
+                "stars": 3088,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -305,7 +305,7 @@
                 "open_issues": 81,
                 "owner": "google",
                 "repo": "eddystone",
-                "stars": 3089,
+                "stars": 3088,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -515,7 +515,7 @@
             "open_issues": 81,
             "owner": "google",
             "repo": "eddystone",
-            "stars": 3089,
+            "stars": 3088,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -621,7 +621,7 @@
                 "open_issues": 14,
                 "owner": "alt236",
                 "repo": "Bluetooth-LE-Library---Android",
-                "stars": 883,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:16:27.855Z",
+    "last_updated": "2026-09-12T10:41:57.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
