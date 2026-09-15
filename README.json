@@ -361,7 +361,7 @@
                 "open_issues": 0,
                 "owner": "nicktoumpelis",
                 "repo": "HiBeacons",
-                "stars": 1150,
+                "stars": 1149,
                 "topics": [
                   "apple-watch",
                   "beacon-region",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T12:40:55.334Z",
+    "last_updated": "2026-09-15T11:40:32.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
