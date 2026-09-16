@@ -227,7 +227,7 @@
             "open_issues": 5,
             "owner": "panicinc",
             "repo": "PunchClock",
-            "stars": 1635,
+            "stars": 1634,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -326,7 +326,7 @@
                 "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1436,
+                "stars": 1437,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:40:32.184Z",
+    "last_updated": "2026-09-16T11:27:54.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
@@ -1103,7 +1103,7 @@
       "open_issues": 1,
       "owner": "rabschi",
       "repo": "awesome-beacon",
-      "stars": 959,
+      "stars": 960,
       "topics": [
         "bluetooth-beacon",
         "bluetooth-beacons",
