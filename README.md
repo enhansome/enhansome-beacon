@@ -151,14 +151,14 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Cordova, Phonegap, Xamarin, Titanium
 
-* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) ⭐ 727 | 🐛 139 | 🌐 JavaScript | 📅 2026-09-13
+* [Cordova iBeacon Plugin](https://github.com/petermetz/cordova-plugin-ibeacon) ⭐ 728 | 🐛 139 | 🌐 JavaScript | 📅 2026-09-13
 * [iBeacon advertising and scanning in a Titanium module](https://github.com/jbeuckm/TiBeacons) ⭐ 135 | 🐛 24 | 🌐 Objective-C | 📅 2016-09-19
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
 
 # OS X
 
 * [Beacon OSX](https://github.com/mttrb/BeaconOSX) ⭐ 853 | 🐛 2 | 🌐 Objective-C | 📅 2018-09-24 - Mavericks as an iBeacon
-* [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner) ⭐ 515 | 🐛 4 | 🌐 Objective-C | 📅 2026-01-22
+* [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner) ⭐ 516 | 🐛 4 | 🌐 Objective-C | 📅 2026-01-22
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID](https://github.com/liamnichols/iBeaconScanner) ⚠️ Archived
 * [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) ⭐ 133 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-27 - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
 * [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) ⭐ 46 | 🐛 1 | 🌐 JavaScript | 📅 2018-03-26 - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

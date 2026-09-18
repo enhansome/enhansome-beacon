@@ -769,7 +769,7 @@
             "open_issues": 139,
             "owner": "petermetz",
             "repo": "cordova-plugin-ibeacon",
-            "stars": 727,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -838,7 +838,7 @@
             "open_issues": 4,
             "owner": "mlwelles",
             "repo": "BeaconScanner",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:37:23.811Z",
+    "last_updated": "2026-09-18T11:09:57.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
