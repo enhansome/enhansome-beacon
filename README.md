@@ -88,7 +88,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Swift
 
 * [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample) ⚠️ Archived
-* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,436 | 🐛 56 | 🌐 Swift | 📅 2024-03-05
+* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,435 | 🐛 56 | 🌐 Swift | 📅 2024-03-05
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) ⭐ 1,149 | 🐛 0 | 🌐 Swift | 📅 2020-10-19 A nice iBeacon demo app in Swift.
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) ⭐ 147 | 🐛 1 | 🌐 Swift | 📅 2016-08-11 - An iBeacon Manager class that is responsible for detecting beacons nearby.
 * [BeaconKit](https://github.com/igor-makarov/BeaconKit) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2018-12-31 - Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon.
@@ -191,7 +191,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Web Bluetooth API
 
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 678 | 🐛 7 | 🌐 HTML | 📅 2024-04-19
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 
 # Beacon Developer Kits & BLE Chips
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
