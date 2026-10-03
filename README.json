@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Eddystone Protocol Specification & Tools",
-          "description": null,
+          "description": "google/eddystone",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Eddystone Validator",
-          "description": null,
+          "description": "google/eddystone",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -95,7 +95,7 @@
             {
               "node_type": "item",
               "title": "Eddystone-UID",
-              "description": null,
+              "description": "google/eddystone",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "Eddystone-TLM",
-              "description": null,
+              "description": "google/eddystone",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -137,7 +137,7 @@
             {
               "node_type": "item",
               "title": "Eddystone-URL",
-              "description": null,
+              "description": "google/eddystone",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -166,7 +166,7 @@
         {
           "node_type": "item",
           "title": "Physical Web Implementation Status",
-          "description": null,
+          "description": "google/physical-web",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -235,7 +235,7 @@
         {
           "node_type": "item",
           "title": "Google Glass & Beacons",
-          "description": null,
+          "description": "tmwagency/Glasstimote",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -292,7 +292,7 @@
             {
               "node_type": "item",
               "title": "iOS Eddystone Scanner Sample Application",
-              "description": null,
+              "description": "google/eddystone",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -313,7 +313,7 @@
             {
               "node_type": "item",
               "title": "iOS & OSX Bluetooth library for RxSwift",
-              "description": null,
+              "description": "Polidea/RxBluetoothKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -428,7 +428,7 @@
             {
               "node_type": "item",
               "title": "Replicates detecting and broadcasting iBeacons in the background",
-              "description": null,
+              "description": "Instrument/Vicinity",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -449,7 +449,7 @@
             {
               "node_type": "item",
               "title": "Generic iBeacon Management and Utilities by KinveyLabs",
-              "description": null,
+              "description": "Kinvey/KCSIBeacon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -523,7 +523,7 @@
         {
           "node_type": "item",
           "title": "Linux iBeacon broadcaster",
-          "description": null,
+          "description": "dburr/linux-ibeacon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -544,7 +544,7 @@
         {
           "node_type": "item",
           "title": "Android BLE advertising library",
-          "description": null,
+          "description": "adriancretu/beacons-android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -600,7 +600,7 @@
                 "open_issues": 156,
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
-                "stars": 2911,
+                "stars": 2910,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "Bluetooth LE Library for Android",
-              "description": null,
+              "description": "alt236/Bluetooth-LE-Library---Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "BLE SDK for Android",
-              "description": null,
+              "description": "RedBearLab/Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -756,7 +756,7 @@
         {
           "node_type": "item",
           "title": "Cordova iBeacon Plugin",
-          "description": null,
+          "description": "petermetz/cordova-plugin-ibeacon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -777,7 +777,7 @@
         {
           "node_type": "item",
           "title": "iBeacon advertising and scanning in a Titanium module",
-          "description": null,
+          "description": "jbeuckm/TiBeacons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -825,7 +825,7 @@
         {
           "node_type": "item",
           "title": "iBeacon Scanning Utility App for OSX",
-          "description": null,
+          "description": "mlwelles/BeaconScanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID",
-          "description": null,
+          "description": "liamnichols/iBeaconScanner",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -952,7 +952,7 @@
         {
           "node_type": "item",
           "title": "A node.js BLE (Bluetooth low energy) central module",
-          "description": null,
+          "description": "noble/noble",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -965,7 +965,7 @@
             "open_issues": 254,
             "owner": "noble",
             "repo": "noble",
-            "stars": 3455,
+            "stars": 3454,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -973,7 +973,7 @@
         {
           "node_type": "item",
           "title": "A node.js module for implementing BLE (Bluetooth low energy) peripherals",
-          "description": null,
+          "description": "noble/bleno",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1029,7 +1029,7 @@
             {
               "node_type": "item",
               "title": "Web Bluetooth Demos",
-              "description": null,
+              "description": "WebBluetoothCG/demos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:28:53.076Z",
+    "last_updated": "2026-10-03T04:33:47.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
