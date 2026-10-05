@@ -179,7 +179,7 @@
             "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5959,
+            "stars": 5960,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -200,7 +200,7 @@
             "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5959,
+            "stars": 5960,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1042,7 +1042,7 @@
                 "open_issues": 7,
                 "owner": "WebBluetoothCG",
                 "repo": "demos",
-                "stars": 678,
+                "stars": 677,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:17:32.212Z",
+    "last_updated": "2026-10-05T14:30:55.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
