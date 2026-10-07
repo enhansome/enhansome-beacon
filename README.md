@@ -77,7 +77,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Beacon Discovery & Configuration Tools
 
-* [ScanBeacon](https://github.com/RadiusNetworks/scanbeacon-gem) ⭐ 30 | 🐛 1 | 🌐 Ruby | 📅 2016-12-06 - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)
+* [ScanBeacon](https://github.com/RadiusNetworks/scanbeacon-gem) ⭐ 29 | 🐛 1 | 🌐 Ruby | 📅 2016-12-06 - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)
 
 # iOS
 
@@ -124,7 +124,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Beacon Development
 
-* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,910 | 🐛 156 | 🌐 Java | 📅 2026-01-16 Use a custom beacon parser for iBeacon device compatibility.
+* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,909 | 🐛 156 | 🌐 Java | 📅 2026-01-16 Use a custom beacon parser for iBeacon device compatibility.
 * [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 882 | 🐛 14 | 🌐 Java | 📅 2024-12-15
 * [BLE SDK for Android](https://github.com/RedBearLab/Android) ⭐ 194 | 🐛 10 | 🌐 Java | 📅 2017-02-28
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) ⚠️ Archived The simple library for locating iBeacons in background
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
