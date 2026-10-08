@@ -1042,7 +1042,7 @@
                 "open_issues": 7,
                 "owner": "WebBluetoothCG",
                 "repo": "demos",
-                "stars": 677,
+                "stars": 676,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:17:11.098Z",
+    "last_updated": "2026-10-08T13:23:33.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",

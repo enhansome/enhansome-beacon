@@ -191,7 +191,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Web Bluetooth API
 
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
 
 # Beacon Developer Kits & BLE Chips
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
