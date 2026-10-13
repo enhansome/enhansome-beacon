@@ -326,7 +326,7 @@
                 "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1435,
+                "stars": 1436,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -441,7 +441,7 @@
                 "open_issues": 12,
                 "owner": "Instrument",
                 "repo": "Vicinity",
-                "stars": 379,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -709,7 +709,7 @@
                 "open_issues": 0,
                 "owner": "reelyactive",
                 "repo": "ble-android-sdk",
-                "stars": 16,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:16:39.417Z",
+    "last_updated": "2026-10-13T14:06:51.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",

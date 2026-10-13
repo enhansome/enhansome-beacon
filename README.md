@@ -88,7 +88,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Swift
 
 * [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample) ⚠️ Archived
-* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,435 | 🐛 56 | 🌐 Swift | 📅 2024-03-05
+* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,436 | 🐛 56 | 🌐 Swift | 📅 2024-03-05
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) ⭐ 1,149 | 🐛 0 | 🌐 Swift | 📅 2020-10-19 A nice iBeacon demo app in Swift.
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) ⭐ 147 | 🐛 1 | 🌐 Swift | 📅 2016-08-11 - An iBeacon Manager class that is responsible for detecting beacons nearby.
 * [BeaconKit](https://github.com/igor-makarov/BeaconKit) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2018-12-31 - Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon.
@@ -129,7 +129,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [BLE SDK for Android](https://github.com/RedBearLab/Android) ⭐ 194 | 🐛 10 | 🌐 Java | 📅 2017-02-28
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) ⚠️ Archived The simple library for locating iBeacons in background
 * [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) ⚠️ Archived, [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) ⚠️ Archived & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
-* [reelyactive-ble-android-sdk](https://github.com/reelyactive/ble-android-sdk) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2016-03-31 This SDK allows you to scan beacons and advertise as a beacon.
+* [reelyactive-ble-android-sdk](https://github.com/reelyactive/ble-android-sdk) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2016-03-31 This SDK allows you to scan beacons and advertise as a beacon.
 * [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) Support OS-level scan filter & peripheral mode.
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
