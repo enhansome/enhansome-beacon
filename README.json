@@ -621,7 +621,7 @@
                 "open_issues": 15,
                 "owner": "alt236",
                 "repo": "Bluetooth-LE-Library---Android",
-                "stars": 882,
+                "stars": 881,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -769,7 +769,7 @@
             "open_issues": 140,
             "owner": "petermetz",
             "repo": "cordova-plugin-ibeacon",
-            "stars": 728,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T11:46:13.208Z",
+    "last_updated": "2026-10-23T11:33:25.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
