@@ -179,7 +179,7 @@
             "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5960,
+            "stars": 5961,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -200,7 +200,7 @@
             "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5960,
+            "stars": 5961,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -462,7 +462,7 @@
                 "open_issues": 4,
                 "owner": "Kinvey",
                 "repo": "KCSIBeacon",
-                "stars": 181,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -765,8 +765,8 @@
             "id": 17801247,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T10:18:57Z",
-            "open_issues": 140,
+            "last_commit": "2026-10-24T22:57:50Z",
+            "open_issues": 139,
             "owner": "petermetz",
             "repo": "cordova-plugin-ibeacon",
             "stars": 727,
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:53:42.209Z",
+    "last_updated": "2026-10-25T11:20:19.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
