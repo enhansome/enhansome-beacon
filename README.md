@@ -125,7 +125,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Beacon Development
 
 * [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,913 | 🐛 156 | 🌐 Java | 📅 2026-10-27 Use a custom beacon parser for iBeacon device compatibility.
-* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 881 | 🐛 15 | 🌐 Java | 📅 2024-12-15
+* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 882 | 🐛 15 | 🌐 Java | 📅 2024-12-15
 * [BLE SDK for Android](https://github.com/RedBearLab/Android) ⭐ 194 | 🐛 10 | 🌐 Java | 📅 2017-02-28
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) ⚠️ Archived The simple library for locating iBeacons in background
 * [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) ⚠️ Archived, [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) ⚠️ Archived & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
@@ -210,7 +210,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Vendor-driven Beacon Standardization
 
-* [BeaconCtrl](https://github.com/upnext/BeaconCtrl) ⭐ 92 | 🐛 16 | 🌐 Ruby | 📅 2016-04-15 Setup and manage large beacon deployments with BeaconCtrl Open Source platform
+* [BeaconCtrl](https://github.com/upnext/BeaconCtrl) ⭐ 91 | 🐛 16 | 🌐 Ruby | 📅 2016-04-15 Setup and manage large beacon deployments with BeaconCtrl Open Source platform
 * [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
 
 ***
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
