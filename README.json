@@ -965,7 +965,7 @@
             "open_issues": 254,
             "owner": "noble",
             "repo": "noble",
-            "stars": 3453,
+            "stars": 3454,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T12:48:33.346Z",
+    "last_updated": "2026-10-31T12:19:48.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
