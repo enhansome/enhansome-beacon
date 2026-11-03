@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T15:42:43.620Z",
+    "last_updated": "2026-11-03T14:05:58.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
@@ -1103,7 +1103,7 @@
       "open_issues": 1,
       "owner": "rabschi",
       "repo": "awesome-beacon",
-      "stars": 959,
+      "stars": 960,
       "topics": [
         "bluetooth-beacon",
         "bluetooth-beacons",
