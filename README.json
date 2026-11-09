@@ -600,7 +600,7 @@
                 "open_issues": 156,
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
-                "stars": 2914,
+                "stars": 2913,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -965,7 +965,7 @@
             "open_issues": 254,
             "owner": "noble",
             "repo": "noble",
-            "stars": 3452,
+            "stars": 3453,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:17:23.388Z",
+    "last_updated": "2026-11-09T16:09:52.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
