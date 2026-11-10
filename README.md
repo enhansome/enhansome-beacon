@@ -176,7 +176,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Windows
 
-* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) ⭐ 214 | 🐛 14 | 🌐 C# | 📅 2025-09-05 - open source library and links to apps to talk to Eddystone and iBeacon beacons
+* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) ⭐ 214 | 🐛 14 | 🌐 C# | 📅 2026-11-10 - open source library and links to apps to talk to Eddystone and iBeacon beacons
 
 # Bluetooth Low Energy
 
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
