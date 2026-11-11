@@ -227,7 +227,7 @@
             "open_issues": 5,
             "owner": "panicinc",
             "repo": "PunchClock",
-            "stars": 1632,
+            "stars": 1631,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -621,7 +621,7 @@
                 "open_issues": 15,
                 "owner": "alt236",
                 "repo": "Bluetooth-LE-Library---Android",
-                "stars": 882,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -965,7 +965,7 @@
             "open_issues": 254,
             "owner": "noble",
             "repo": "noble",
-            "stars": 3453,
+            "stars": 3452,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1009,7 +1009,7 @@
             "id": 40302652,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T14:00:31Z",
+            "last_commit": "2026-11-11T10:27:10Z",
             "open_issues": 14,
             "owner": "andijakl",
             "repo": "universal-beacon",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:48:39.405Z",
+    "last_updated": "2026-11-11T14:13:46.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
@@ -1103,7 +1103,7 @@
       "open_issues": 1,
       "owner": "rabschi",
       "repo": "awesome-beacon",
-      "stars": 960,
+      "stars": 961,
       "topics": [
         "bluetooth-beacon",
         "bluetooth-beacons",
