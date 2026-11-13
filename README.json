@@ -227,7 +227,7 @@
             "open_issues": 5,
             "owner": "panicinc",
             "repo": "PunchClock",
-            "stars": 1631,
+            "stars": 1630,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -596,8 +596,8 @@
                 "id": 22342877,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T11:17:31Z",
-                "open_issues": 159,
+                "last_commit": "2026-11-13T01:15:32Z",
+                "open_issues": 158,
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
                 "stars": 2914,
@@ -688,7 +688,7 @@
                 "open_issues": 10,
                 "owner": "inthepocket",
                 "repo": "ibeacon-scanner-android",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -965,7 +965,7 @@
             "open_issues": 254,
             "owner": "noble",
             "repo": "noble",
-            "stars": 3452,
+            "stars": 3451,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -986,7 +986,7 @@
             "open_issues": 102,
             "owner": "noble",
             "repo": "bleno",
-            "stars": 2134,
+            "stars": 2133,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1013,7 +1013,7 @@
             "open_issues": 14,
             "owner": "andijakl",
             "repo": "universal-beacon",
-            "stars": 214,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:06:40.230Z",
+    "last_updated": "2026-11-13T14:29:52.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
