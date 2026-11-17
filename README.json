@@ -179,7 +179,7 @@
             "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5957,
+            "stars": 5956,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -200,7 +200,7 @@
             "open_issues": 93,
             "owner": "google",
             "repo": "physical-web",
-            "stars": 5957,
+            "stars": 5956,
             "topics": []
           },
           "first_seen": "2026-08-28T18:38:41.921Z"
@@ -618,7 +618,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2024-12-15T15:35:26Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "alt236",
                 "repo": "Bluetooth-LE-Library---Android",
                 "stars": 883,
@@ -1042,7 +1042,7 @@
                 "open_issues": 7,
                 "owner": "WebBluetoothCG",
                 "repo": "demos",
-                "stars": 676,
+                "stars": 675,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:38:41.921Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T15:38:01.909Z",
+    "last_updated": "2026-11-17T15:55:32.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
