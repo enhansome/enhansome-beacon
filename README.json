@@ -596,8 +596,8 @@
                 "id": 22342877,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T01:15:32Z",
-                "open_issues": 159,
+                "last_commit": "2026-11-21T22:33:50Z",
+                "open_issues": 160,
                 "owner": "AltBeacon",
                 "repo": "android-beacon-library",
                 "stars": 2915,
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:35:12.433Z",
+    "last_updated": "2026-11-22T14:29:45.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Bluetooth beacon software and tools.",
