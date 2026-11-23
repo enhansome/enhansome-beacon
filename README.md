@@ -88,7 +88,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Swift
 
 * [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample) ⚠️ Archived
-* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,435 | 🐛 56 | 🌐 Swift | 📅 2024-03-05
+* [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,434 | 🐛 56 | 🌐 Swift | 📅 2024-03-05
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) ⭐ 1,148 | 🐛 0 | 🌐 Swift | 📅 2020-10-19 A nice iBeacon demo app in Swift.
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) ⭐ 147 | 🐛 1 | 🌐 Swift | 📅 2016-08-11 - An iBeacon Manager class that is responsible for detecting beacons nearby.
 * [BeaconKit](https://github.com/igor-makarov/BeaconKit) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2018-12-31 - Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon.
@@ -124,8 +124,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Beacon Development
 
-* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,915 | 🐛 160 | 🌐 Java | 📅 2026-11-21 Use a custom beacon parser for iBeacon device compatibility.
-* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 884 | 🐛 17 | 🌐 Java | 📅 2024-12-15
+* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) ⭐ 2,914 | 🐛 160 | 🌐 Java | 📅 2026-11-21 Use a custom beacon parser for iBeacon device compatibility.
+* [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android) ⭐ 883 | 🐛 17 | 🌐 Java | 📅 2024-12-15
 * [BLE SDK for Android](https://github.com/RedBearLab/Android) ⭐ 194 | 🐛 10 | 🌐 Java | 📅 2017-02-28
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) ⚠️ Archived The simple library for locating iBeacons in background
 * [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) ⚠️ Archived, [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) ⚠️ Archived & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
@@ -225,4 +225,4 @@ To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
